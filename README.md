@@ -1,4 +1,4 @@
-# RapportoStudioCavatappi
+# Rapporto Studio Cavatappi
 
 steel corkscrew creation project report, static analysis and design generation
 
