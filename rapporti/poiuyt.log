@@ -1,0 +1,22 @@
+Senza titolo v4: Modello di simulazione 1 - Studio 2 - Ottimizzazione delle forme
+_____ 2023-02-05 20:00:51 _____
+È in corso il caricamento del documento in archiviazione cloud. Processo cloud in sospeso.
+Avvio risoluzione
+Il processo è stato terminato con errori. I crediti cloud per questo processo verranno rimborsati.
+ Ricezione dei risultati.
+1231 Tetrahedra :  100.0% of elements (100.0% of volume) 
+       Face Angle min:  6.52,  max : 151
+       Dihedral Angle min:  11,  max : 162
+       Worst shape ratio :  13.8  on element 137
+       Worst aspect ratio :  8.53  on element 800, shortest edge: 0.000157, longest : 0.0159
+       Lowest collapse ratio :  0.0918  on element 137
+       Worst Jacobian ratio :  1  on element 1
+Mesh di base: 451 nodi, 1231 elementi
+Mesh del risolutore: 451 nodi, 1231 elementi
+Errore: La massa di destinazione minima è 31.
+Provare a deselezionare 'Mantieni entità con carichi e vincoli' nella 
+finestra di dialogo Criteri di ottimizzazione delle forme e/o utilizzando una dimensione mesh molto inferiore.
+Errore: Solver Error
+Errore: Solver Error
+Errore: An error occurred while solving the model.
+
